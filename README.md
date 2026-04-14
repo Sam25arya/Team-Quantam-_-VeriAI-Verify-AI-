@@ -54,6 +54,7 @@ The system analyzes the content and provides a simple output:
 * Reduces fake news & misinformation
 * Prevents fraud and scams
 * Builds trust in digital content
+* Strengthens digital security
 
 
  🔮 *Future Scope*
