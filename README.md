@@ -48,6 +48,7 @@ The system analyzes the content and provides a simple output:
 * 🔥 All-in-one detection platform
 * 🤖 Hybrid approach (AI + metadata analysis)
 * 🎤 Voice deepfake detection (future scope)
+* 🧠 Context-aware AI verification
 
 
  🌍 *Impact*
