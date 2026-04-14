@@ -13,7 +13,7 @@ With the rise of AI-generated content (deepfakes), it is becoming difficult to d
 We propose an AI-based platform where users can upload *images, videos, documents, or audio files* to check their authenticity.
 
 The system analyzes the content and provides a simple output:
-👉 ✅ Real | ⚠️ Suspicious | ❌ Fake
+👉 ✅ Real | ⚠️ Suspicious | ❌ Fake.
 
 
 
